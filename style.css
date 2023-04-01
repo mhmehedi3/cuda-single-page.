@@ -1,0 +1,142 @@
+header{
+    background-color: #87509c;
+    width: 100%;
+    padding-bottom: 80px;
+}
+.text1{
+    padding-top: 90px;
+    text-align: center;
+    font-size: 42.16px;
+    padding-bottom: 30px;
+
+}
+.button1{
+    background-color: #eb7d4b;
+    color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+    border-radius: 4px;
+}
+ .second{
+    background-color:#17c2a4;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #ffffff;
+}
+.text3{
+     
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+h4{
+    padding-top: 20px;
+}
+.third{
+      background-color:#e7f1f8;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #3c4761;
+}
+.smalltext{
+    color: #b6e2f3;
+}
+.fourth{
+    background-color:#ffffff;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #111215;
+}
+.fifth{
+    background-color:#ffdd99;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #393939;
+}
+.button2{
+    background-color: #ebc985;
+    color: white;
+   padding-left: 5px;
+   padding-right: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+#buttons{
+    padding-bottom: 40px;
+    display:block;
+    margin: auto;
+}
+.row h4{
+    font-family: Myriad Pro;
+}
+.same{
+    padding-top: 10px;
+}
+#button3{
+    background-color: #17c2a4;
+    color: white;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   padding-left: 38px;
+   padding-right: 38px;
+    border-radius: 4px;
+}
+.sixth{
+    background-color:#d74680;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #ffffff;
+}
+.col-md-4 p{
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.seventh{
+    background-color:#3c5499;
+    width: 100%;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 70px;
+    color: #ffffff;
+}
+#seven{
+    padding-bottom: 40px;
+    
+}
+input{
+    background-color: #273a71;
+    color: #ffffff;
+}
+textarea{
+    background-color: #273a71;
+    color: #ffffff;
+}
+.last-step{
+    background-color:#344b8e;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+   
+    color: #ffffff;
+}
+.social-site a{
+
+margin-left: 50px;
+margin-right: 50px;
+font-weight: 700;
+color: white;
+}
+.social-site a:hover{
+    color: #3195c9;
+}
